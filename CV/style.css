@@ -99,14 +99,14 @@ body {
   cursor: pointer;
 }
 
-.container ul li .icon {
+.contact ul li .icon {
   display: inline-block;
   width: 30px;
   font-size: 18px;
-  colors: #03a9f4;
+  color: #fff;
 }
 
-.container ul li span {
+.contact ul li span {
   color: #fff;
   font-weight: 300;
 }
@@ -128,6 +128,12 @@ body {
   cursor: pointer;
   color: #fff;
   font-weight: 300;
+}
+
+.certificates ol li .link-certi{
+  text-decoration: none;
+  background-color: none;
+  color: #fff;
 }
 
 .language ul li {
